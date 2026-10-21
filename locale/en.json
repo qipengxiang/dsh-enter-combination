@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Send Key",
+    "description": "Choose which key sends a message and which key breaks the line in the composer: Enter sends, Cmd/Ctrl + Enter breaks the line by default, and either can be re-recorded"
+  }
+}

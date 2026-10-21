@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "发送按键",
+    "description": "自定义发送消息和输入框换行的按键：默认 Enter 发送，Cmd/Ctrl + Enter 换行，点按键即可重新录制"
+  }
+}
